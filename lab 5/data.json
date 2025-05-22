@@ -1,0 +1,34 @@
+{
+    "name": "Leyla Məmmədyarova",
+    "title": "İnformasiya Təhlükəsizliyi üzrə Tələbə",
+    "contact": {
+      "phone": "+994 55 573 77 12",
+      "email": "memmedyarovaleyla22@gmail.com",
+      "location": "Bakı, Azərbaycan"
+       },
+    "profile": "İnformasiya təhlükəsizliyi üzrə həvəskar tələbəyəm, proqramlaşdırma və şəbəkə sahəsində təcrübə qazanıram.",
+    "education": [
+      "Azərbaycan Texniki Universiteti, İnformasiya Təhlükəsizliyi (2024-2028)"
+    ],
+    "skills": [
+      "Proqramlaşdırma (Python, C++)",
+      "Şəbəkə təhlükəsizliyi",
+      "Web inkişafı (HTML, CSS, JavaScript)"
+    ],
+    "languages": [
+      "Azərbaycan dili (Ana dili)",
+      "İngilis dili (B2)",
+      "Rus dili (A1)"
+    ],
+    "experience": "2024-cü ildə IT layihələrdə könüllü olaraq iştirak etmişəm.",
+    "projects": [
+      {
+        "name": "Web Tətbiqi",
+        "description": "HTML, CSS və JavaScript istifadə edərək sadə bir web tətbiqi yaratdım."
+      },
+      {
+        "name": "Python Proqramı",
+        "description": "Python dilində məlumat analizi üçün bir proqram yazdım."
+      }
+    ]
+    }
